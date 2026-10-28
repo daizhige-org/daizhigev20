@@ -9,3 +9,5 @@ scripts/__pycache__/
 .sources/**/*.py
 .sources/**/*.mjs
 .sources/**/*.ttf
+
+.env
